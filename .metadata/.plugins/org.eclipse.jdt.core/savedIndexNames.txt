@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Peter Victor Dawis\Music\Swarm Stingers Vs. Flying Bee - Code\.metadata\.plugins\org.eclipse.jdt.core
+3803894794.index
+1865797976.index
+4141038749.index
